@@ -1,5 +1,5 @@
 #include <iostream>
-#include <framework.h>
+#include "../TestProgram/include/framework.h"
 
 extern "C" {
 	void hook(int asd) {
